@@ -7,6 +7,9 @@ Built using React.js, this app highlights key React features such as component-b
 
 
 
+
+
+
 Key Features:
 
 
