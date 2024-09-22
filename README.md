@@ -2,6 +2,11 @@ The Top Courses App is a React-based web application that displays a list of top
 
 Built using React.js, this app highlights key React features such as component-based architecture, state management with hooks, and dynamic rendering of filtered content. Each course is displayed with details such as title, description, category, and rating, making it easy for users to quickly find courses relevant to their interests.
 
+
+
+
+
+
 Key Features:
 
 
@@ -14,6 +19,9 @@ Responsive Design: Fully responsive layout to ensure a great experience on all d
 Dynamic Rendering: Courses are dynamically filtered and rendered based on the user’s selection, ensuring an interactive experience.
 
 State Management: Manages state using React hooks to filter and display courses efficiently.
+
+
+
 
 
 
