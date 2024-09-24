@@ -28,7 +28,7 @@ This app showcases key **React.js** features such as a **component-based archite
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-repo/top-courses-app.git
+   git clone https://github.com/AdeebZaidi/top-courses-app.git
    ```
 
 2. **Navigate to the project folder:**
